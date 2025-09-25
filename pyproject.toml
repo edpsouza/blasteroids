@@ -1,7 +1,7 @@
 [project]
 name = "blasteroids"
 version = "0.1.0"
-description = "Add your description here"
+description = "Blast your way through flying spcae rocks in this asteroids like game."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
